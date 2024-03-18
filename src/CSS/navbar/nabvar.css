@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body,html{
+    height: 100%;
+    width: 100%;
+  }
+  nav{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: skyblue;
+  }
+  nav h2{
+    margin-left: 10px;
+    color: white;
+    font-weight: 700;
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  nav .image{
+    width: 40px;
+    height: 40px;
+    margin-left: 30px;
+  }
+
+  nav .image img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
