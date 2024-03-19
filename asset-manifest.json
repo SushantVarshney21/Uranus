@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Uranus/static/css/main.53088ece.css",
+    "main.css": "/Uranus/static/css/main.bf9e1639.css",
     "main.js": "/Uranus/static/js/main.86984d78.js",
     "static/js/453.eb04e05b.chunk.js": "/Uranus/static/js/453.eb04e05b.chunk.js",
     "static/media/Untitled (8).png": "/Uranus/static/media/Untitled (8).ae373defcbb38f18d007.png",
@@ -11,12 +11,12 @@
     "static/media/footer.jpg": "/Uranus/static/media/footer.0583561444c0eae5d4f1.jpg",
     "static/media/Untitled (5).png": "/Uranus/static/media/Untitled (5).9a209caa883371b2cd5a.png",
     "index.html": "/Uranus/index.html",
-    "main.53088ece.css.map": "/Uranus/static/css/main.53088ece.css.map",
+    "main.bf9e1639.css.map": "/Uranus/static/css/main.bf9e1639.css.map",
     "main.86984d78.js.map": "/Uranus/static/js/main.86984d78.js.map",
     "453.eb04e05b.chunk.js.map": "/Uranus/static/js/453.eb04e05b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.53088ece.css",
+    "static/css/main.bf9e1639.css",
     "static/js/main.86984d78.js"
   ]
 }
