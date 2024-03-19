@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/Uranus/static/css/main.ebd7946b.css",
-    "main.js": "/Uranus/static/js/main.c0261ae3.js",
+    "main.css": "/Uranus/static/css/main.53088ece.css",
+    "main.js": "/Uranus/static/js/main.86984d78.js",
     "static/js/453.eb04e05b.chunk.js": "/Uranus/static/js/453.eb04e05b.chunk.js",
     "static/media/Untitled (8).png": "/Uranus/static/media/Untitled (8).ae373defcbb38f18d007.png",
     "static/media/Untitled (7).png": "/Uranus/static/media/Untitled (7).9e28c60232f6ec00b782.png",
     "static/media/Untitled (6).png": "/Uranus/static/media/Untitled (6).f6d7ae8e4c2f678d76cf.png",
     "static/media/Untitled (10)-DnvTJv-k.png": "/Uranus/static/media/Untitled (10)-DnvTJv-k.77b5f20624009d8717e9.png",
     "static/media/Untitled (9).png": "/Uranus/static/media/Untitled (9).480cc798c5e7218a9e20.png",
+    "static/media/footer.jpg": "/Uranus/static/media/footer.0583561444c0eae5d4f1.jpg",
     "static/media/Untitled (5).png": "/Uranus/static/media/Untitled (5).9a209caa883371b2cd5a.png",
     "index.html": "/Uranus/index.html",
-    "main.ebd7946b.css.map": "/Uranus/static/css/main.ebd7946b.css.map",
-    "main.c0261ae3.js.map": "/Uranus/static/js/main.c0261ae3.js.map",
+    "main.53088ece.css.map": "/Uranus/static/css/main.53088ece.css.map",
+    "main.86984d78.js.map": "/Uranus/static/js/main.86984d78.js.map",
     "453.eb04e05b.chunk.js.map": "/Uranus/static/js/453.eb04e05b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebd7946b.css",
-    "static/js/main.c0261ae3.js"
+    "static/css/main.53088ece.css",
+    "static/js/main.86984d78.js"
   ]
 }
