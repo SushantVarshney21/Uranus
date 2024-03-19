@@ -13,7 +13,10 @@
   }
   footer{
     padding: 50px;
-    background-color: rgba(26, 25, 25, 0.87);
+    /* background-color: rgba(26, 25, 25, 0.87); */
+    background: url("../../assets/footer.jpg");
+    background-repeat: no-repeat;
+    background-size:  cover;
     color: white;
     display: flex;
     align-items: center;
