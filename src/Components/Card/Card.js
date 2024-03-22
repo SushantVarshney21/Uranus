@@ -3,7 +3,7 @@ import "../../CSS/card/card.css"
 
 const Card = () => {
   return (
-    <div className='main'>
+    <div className='main-card'>
         <div className='card-con'>
       <div className='card'>
         <h2>Uranus Retrograde</h2>

@@ -16,6 +16,12 @@
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
     padding: 12px;
     margin: 30px;
+    transition: 2s ease;
+  }
+
+  .main h2{
+    text-align: center;
+    color: rgb(10, 139, 190);
   }
   .main p {
     text-align: center;
@@ -30,5 +36,15 @@
     display: flex;
     align-items: center;
     justify-content: center;
+
+  }
+
+  @media screen and (max-width: 400px) {
+    .main{
+      margin: 12px;
+    }
+  .video{
+    width: 50%;
+  }
 
   }

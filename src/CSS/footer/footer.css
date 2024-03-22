@@ -13,7 +13,6 @@
   }
   footer{
     padding: 50px;
-    /* background-color: rgba(26, 25, 25, 0.87); */
     background: url("../../assets/footer.jpg");
     background-repeat: no-repeat;
     background-size:  cover;
@@ -23,11 +22,19 @@
     justify-content: center;
     flex-direction: column;
   }
+  
   footer .top{
     width: 60%;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    transition: 1s ease;
+  }
+  footer .top:hover{
+    transform: scale(1.1);
+  }
+  footer .bottom{
+    margin-top: 15px;
   }
 
   ul{
@@ -53,4 +60,9 @@
     footer{
       padding: 30px;
     }
+    footer p, footer h3, footer a{
+      font-size: 12px;
+      width:100% ;
+    }
+
   }

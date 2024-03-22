@@ -20,7 +20,7 @@ const Footer = () => {
             </ul>
             </div>
         </div>
-        <hr/>
+        {/* <hr/> */}
         <div className='bottom'>
             <p>Created by Sushant Varshney</p>
             <p>Email: sushantvars@gmail.com</p>
